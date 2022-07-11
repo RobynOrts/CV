@@ -1,2 +1,1 @@
-# CV
-HTML Practice Course 
+# CV 
